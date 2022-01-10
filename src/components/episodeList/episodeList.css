@@ -1,0 +1,15 @@
+.card-list .card {
+    flex: 0 0 33%;
+    margin-top: 2%;
+    margin-left: 25% !important;
+    margin-right: 25% !important;
+    padding: 25px;
+    background-color: rgb(103, 103, 165);
+    border-radius: 39px;
+    cursor: pointer;
+    text-align: center;
+  }
+  .card-list {
+    /* display: flex; */
+    justify-content: center;
+  }

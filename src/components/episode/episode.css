@@ -1,0 +1,9 @@
+.chara{
+    background-color: white;
+    cursor: pointer;
+    border-radius: 39px;
+    margin-top: 2%;
+    margin-left: 30% !important;
+    margin-right: 30% !important;
+    padding: 25px;
+}
